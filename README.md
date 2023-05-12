@@ -42,6 +42,6 @@ Updates the president of the country with the specified id.
 * HTTP Method: PUT
 
 
-##Implementation Details
+## Implementation Details
 This project uses the MapStruct library for mapping between DTOs and entities. 
 The data is not stored in a database, but rather in memory. Therefore, the data is lost when the application is stopped.
